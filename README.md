@@ -2,7 +2,7 @@
 
 [![](https://jitpack.io/v/jaychang0917/SimpleQRCodeScanView.svg)](https://jitpack.io/#jaychang0917/SimpleQRCodeScanView)
 
-An QR code scan view using camera1 and ZBar
+A fast QR code scan view using camera1 and ZBar
 
 ## Installation
 In your project level build.gradle :
